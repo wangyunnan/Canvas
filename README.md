@@ -1,8 +1,7 @@
 ### <div align="center"> Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion<div> 
 <div align="center">
 <div style="text-align: center;">
-  <a href="https://arxiv.org/abs/2410.00447"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:DisCo&color=red&logo=arxiv"></a> &ensp;
-  <a href="https://neurips.cc/virtual/2024/poster/92965"><img src="https://img.shields.io/badge/Project-Website-blue"></a> &ensp;
+  <a href="https://huggingface.co/wangyunnan/canvas"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Model&message=HuggingFace&color=yellow"></a> &ensp;
 </div>
 </div> 
 </div>
