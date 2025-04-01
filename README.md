@@ -1,14 +1,14 @@
 ### <div align="center"> Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion<div> 
 <div align="center">
 <div style="text-align: center;">
-  <a href="https://huggingface.co/wangyunnan/canvas"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Model&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/wangyunnan/Canvas"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Model&message=HuggingFace&color=yellow"></a> &ensp;
 </div>
 </div> 
 </div>
 
 
 ## 📣 Update Log
-- [2025.4.01] 🎉 We release the pre-trained Canvas at [HuggingFace](https://huggingface.co/wangyunnan/canvas). 
+- [2025.4.01] 🎉 We release the pre-trained Canvas at [HuggingFace](https://huggingface.co/wangyunnan/Canvas). 
 - [2025.3.15] 🎉 Here comes Canvas, we release the code and dataset of Canvas. 
 
 
