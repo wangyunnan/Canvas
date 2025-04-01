@@ -8,7 +8,7 @@
 
 
 ## 📣 Update Log
-- [2025.4.01] 🎉 We release the pre-trained Canvas at [HuggingFace](https://huggingface.co/wangyunnan/Canvas). 
+- [2025.4.01] 🎉 We release the pre-trained Canvas at HuggingFace ([Model](https://huggingface.co/wangyunnan/Canvas)  [Dataset](https://huggingface.co/datasets/wangyunnan/Canvas)). 
 - [2025.3.15] 🎉 Here comes Canvas, we release the code and dataset of Canvas. 
 
 
